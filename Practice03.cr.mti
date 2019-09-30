@@ -1,0 +1,26 @@
+C:/LogicDesign/Practice03/Practice03/tb_MUX.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice03/Practice03/tb_MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_MUX
+-- Compiling module tb_4to1MUX
+
+Top level modules:
+	tb_MUX
+	tb_4to1MUX
+
+} {} {}} C:/LogicDesign/Practice03/Practice03/2MUX.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice03/Practice03/2MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2to1_cond
+-- Compiling module mux2to1_if
+-- Compiling module mux2to1_case
+-- Compiling module mux4to1_inst
+-- Compiling module mux4to1_if
+-- Compiling module mux4to1_case
+
+Top level modules:
+	mux2to1_cond
+	mux2to1_if
+	mux4to1_inst
+	mux4to1_if
+	mux4to1_case
+
+} {} {}}

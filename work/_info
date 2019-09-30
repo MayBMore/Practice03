@@ -1,0 +1,180 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/LogicDesign/Practice02/Practice02
+vmux2to1_case
+Z0 !s110 1569841964
+!i10b 1
+!s100 RESO]0U0TQFPe3D?412j92
+Iln3j>CXj1G1nmC8T0DXlX2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/LogicDesign/Practice03/Practice03
+Z3 w1569841329
+Z4 8C:/LogicDesign/Practice03/Practice03/2MUX.v
+Z5 FC:/LogicDesign/Practice03/Practice03/2MUX.v
+L0 36
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1569841964.000000
+Z8 !s107 C:/LogicDesign/Practice03/Practice03/2MUX.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/LogicDesign/Practice03/Practice03/2MUX.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmux2to1_cond
+R0
+!i10b 1
+!s100 ]^0;>g8<jIik3bJd8f?ej0
+IAIhMlNn;?T^E5NFh:`6d40
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux2to1_if
+R0
+!i10b 1
+!s100 ;E5[=04UT1Lk5ZJI==oNi0
+I<00:c<k_4Gi:E`7QZMFGN2
+R1
+R2
+R3
+R4
+R5
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux4to1_case
+R0
+!i10b 1
+!s100 FKf53iAao8jcY>hh7;1Nc0
+I;9CN<hn>97_HK:Ahh18Zm2
+R1
+R2
+R3
+R4
+R5
+L0 125
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux4to1_if
+R0
+!i10b 1
+!s100 J_eTQPKJZd`]g4aG;B1`01
+IHYbzl3640_hMOQ9zRSd7n0
+R1
+R2
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux4to1_inst
+R0
+!i10b 1
+!s100 mjA0mKG2G7=I7ZI[>T;hL0
+I2G47OQS6@]NnBAh]X<lf=0
+R1
+R2
+R3
+R4
+R5
+L0 63
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_4to1MUX
+R0
+!i10b 1
+!s100 7FOVTo;20_LJ4Kogoc1[D2
+Io_Kkn4FAQ@bTL]`YM[HIR2
+R1
+R2
+Z12 w1569840976
+Z13 8C:/LogicDesign/Practice03/Practice03/tb_MUX.v
+Z14 FC:/LogicDesign/Practice03/Practice03/tb_MUX.v
+L0 50
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/LogicDesign/Practice03/Practice03/tb_MUX.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/LogicDesign/Practice03/Practice03/tb_MUX.v|
+!i113 1
+R10
+R11
+ntb_4to1@m@u@x
+vtb_MUX
+R0
+!i10b 1
+!s100 `@n8YNiG`YBOF=FYFA@jB2
+I0IJO<7[gfJlEY1fQPAW3T1
+R1
+R2
+R12
+R13
+R14
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+ntb_@m@u@x
